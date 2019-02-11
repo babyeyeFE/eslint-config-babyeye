@@ -1,0 +1,24 @@
+{
+  "name": "eslint-config-babyeye",
+  "version": "1.0.0",
+  "description": "ESLint Shareable Config for BabyeyeFE Javascript Style Guide",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/babyeyeFE/eslint-config-babyeye.git"
+  },
+  "keywords": [
+    "eslint",
+    "eslint-config",
+    "babyeye"
+  ],
+  "author": "Botao <botaoxyz@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/babyeyeFE/eslint-config-babyeye/issues"
+  },
+  "homepage": "https://github.com/babyeyeFE/eslint-config-babyeye#readme"
+}
