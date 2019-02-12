@@ -2,7 +2,7 @@
  * 这些规则可能和 JS 一些语法和逻辑错误相关
  */
 
-modules.exports = {
+module.exports = {
   rules: {
     // 禁止在循环中 出现 await
    'no-await-in-loop': 'error',
